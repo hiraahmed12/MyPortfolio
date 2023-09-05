@@ -731,21 +731,3 @@ h2{
     0 0 100px cyan, 0 0 200px cyan;
 }
 
-@media screen and (max-width: 991px) {
-    .navbar a{
-        color: greenyellow;
-        font-size: 10px;
-        margin-left: 10px;
-        
-    }
-
-    .home{
-        width: 1200px;
-       margin-right: 10px;
-    }
-
-    .logo img{
-        width: 200px;
-        height: 200px;
-    }
-}
